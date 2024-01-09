@@ -1,0 +1,17 @@
+.bildgalleri img{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.bildgalleri{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
